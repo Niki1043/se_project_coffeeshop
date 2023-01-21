@@ -54,7 +54,7 @@
   -webkit-box-pack: end;
   -ms-flex-pack: end;
   justify-content: flex-end;
-  font-family: Noto Serif;
+  font-family: Noto serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -69,7 +69,7 @@
 .about__paragraph {
   margin-top: 20px;
   margin-bottom: 0px;
-  font-family: Noto Serif;
+  font-family: Noto serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
