@@ -36,7 +36,7 @@
   margin: 0 0 auto 0;
 }
 
-.footer__content_social-heading {
+.footer__social-heading {
   padding: 0;
   margin: 0 0 20px 0;
   font-family: Inter;
@@ -62,7 +62,7 @@
   line-height: 20px;
 }
 
-.footer__content_social-link {
+.footer__social-link {
   color: white;
   font-size: 16px;
   line-height: 20px;
@@ -79,7 +79,7 @@
   justify-content: space-between;
 }
 
-.footer__content_social-link:hover {
+.footer__social-link:hover {
   color: #c1c1c1;
 }
 
