@@ -10,10 +10,9 @@
   max-width: 780px;
   text-align: center;
   margin: 0 auto 0;
-  padding: 0;
   padding-top: 100px;
   padding-bottom: 24px;
-  font-family: Inter;
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -27,7 +26,7 @@
   margin: 0 auto 0;
   padding: 0;
   padding-bottom: 100px;
-  font-family: Noto serif;
+  font-family: "Noto serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -52,65 +51,4 @@
   justify-content: center;
   -ms-flex-line-pack: justify;
   align-content: space-between;
-}
-
-.card {
-  list-style-type: none;
-  max-width: 600px;
-  -ms-flex-preferred-size: 550px;
-  flex-basis: 550px;
-  margin: 0 100px 100px;
-}
-
-.card__list {
-  margin: 0;
-  padding: 0px;
-}
-
-.card__title {
-  margin: 0;
-  padding: 0;
-  margin-bottom: 32px;
-  font-family: Inter;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-  color: #ffffff;
-}
-
-.card__list-item {
-  margin: 0;
-  padding: 0;
-  margin-bottom: 16px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -ms-flex-wrap: nowrap;
-  flex-wrap: nowrap;
-  font-family: Noto serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-  color: #ffffff;
-}
-
-.card__list-item.last-of-type {
-  margin-bottom: 0;
-}
-
-.card__list-divider {
-  border: 0;
-  border-bottom: 1px solid #fff;
-  height: 10px;
-  -webkit-box-flex: 1;
-  -ms-flex-positive: 1;
-  flex-grow: 1;
 }
